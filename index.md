@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Project 1
 
-DS And Algo 
+DS And Algo </br>
 Continuous Delivery using the harness platform.
 <a href="https://github.com/psubudhi/DSandAlgo">GitHub</a>
 ## Header 2
