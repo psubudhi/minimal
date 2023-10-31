@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 DS And Algo 
 Continuous Delivery using the harness platform.
-<a href="[https://www.example.com](https://github.com/psubudhi/DSandAlgo)">GitHub</a>
+<a href="https://github.com/psubudhi/DSandAlgo">GitHub</a>
 ## Header 2
 
 > This is a blockquote following a header.
